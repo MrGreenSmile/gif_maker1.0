@@ -3,7 +3,7 @@
 used imageio, moviepy, PIL, skimage for image process.
 used tkinger for GUI
 
-**this will not work, so visit here**
+**this will not work, so visit [here](https://github.com/MrGreenSmile/gif_maker2.0)**
 
 
 prepare for pyinstaller,
