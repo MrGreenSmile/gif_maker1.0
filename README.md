@@ -5,7 +5,7 @@ used tkinger for GUI
 
 **this will not work, so visit [here](https://github.com/MrGreenSmile/gif_maker2.0)**
 
-
+-------------------------
 prepare for pyinstaller,
 ```python
 from moviepy.audio.fx.audio_fadein import audio_fadein
